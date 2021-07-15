@@ -1,0 +1,14 @@
+<%- include('../partials/header') %>
+<div class="grid__container">
+    <% for(let i=0;i<results.length;i++){%>
+        <a href=<%='/result/' + movieid[i]%>>
+        <div class="card">
+        
+        <div class="card__img">
+                <img src=<%=movieurl[i] %> alt="Movie image cap">
+        </div>
+        <div class="card__title"><%= results[i]%></div>
+    </div>
+    <%}%>
+</div>
+<%- include('../partials/footer') %>
