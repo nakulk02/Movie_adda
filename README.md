@@ -1,4 +1,4 @@
-# Movie Info Site
+# Movie Adda
 A simple web application that fetches and displays movie information using the TMDB API. Built with Express.js for server-side logic and EJS for templating.
 
 ## Features
@@ -8,6 +8,7 @@ View movie details including poster, release date, overview, and rating
 Installation
 ## Clone the repository:
 git clone https://github.com/nakulk02/Movie_adda.git
+
 cd Movie_adda
 
 ## Install dependencies:
