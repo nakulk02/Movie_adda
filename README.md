@@ -24,18 +24,29 @@ Open http://localhost:3000 in your browser.
 
 ## Usage
 Homepage: Lists popular movies from TMDB.
+
 Search: Search for a movie title to get relevant results.
+
 Movie Details: Click on a movie to view additional details.
+
 ## Technologies Used
 Express.js - Server-side framework
+
 EJS - Templating engine for dynamic HTML
+
 TMDB API - Provides movie data
+
 Node.js - JavaScript runtime
+
 ## Contributing
 Fork the repository
+
 Create a new branch: git checkout -b feature-branch
+
 Commit changes: git commit -m 'Add new feature'
+
 Push to the branch: git push origin feature-branch
+
 Open a pull request
 
 ## Acknowledgements
