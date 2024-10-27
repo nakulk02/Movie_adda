@@ -19,6 +19,7 @@ npm install
 TMDB_API_KEY=your_api_key_here
 ## Start the server:
 npm start
+
 Open http://localhost:3000 in your browser.
 
 ## Usage
