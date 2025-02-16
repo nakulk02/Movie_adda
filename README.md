@@ -1,4 +1,4 @@
-# Movie Adda
+# Movie Place
 A simple web application that fetches and displays movie information using the TMDB API. Built with Express.js for server-side logic and EJS for templating.
 
 ## Features
